@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
 
+import About from './About'
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        ScandTree
-      </header>
-    </div>
+      <div>
+          <h1>ScandTree</h1>
+          <About />
+      </div>
   );
 }
 
