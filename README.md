@@ -4,3 +4,8 @@
 - [material-ui.com](https://material-ui.com/)
 - [github.com/material-ui](https://github.com/mui-org/material-ui)
 - [introducing-material-ui-design-system](https://medium.com/material-ui/introducing-material-ui-design-system-93e921beb8df)
+
+## cs
+- [github.com/HowProgrammingWorks/Courses/Functional](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)
+  - [composition](https://github.com/HowProgrammingWorks/Composition)
+  - [higher order function](https://github.com/HowProgrammingWorks/HigherOrderFunction)
