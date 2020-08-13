@@ -1,9 +1,12 @@
 import React from 'react';
-import './contact.css';
+import './style.scss';
+
+// Formik
+// https://formik.org/
 
 function Contact() {
     return (
-        <div>Contact</div>
+        <div id="contacts" className="block contact">Contact</div>
     );
 }
 

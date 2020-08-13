@@ -1,9 +1,11 @@
 import React from 'react';
-import './about.scss';
+import './style.scss';
 
 function About() {
     return (
-        <div>About</div>
+        <div id="about" className="block about">
+            About
+        </div>
     );
 }
 

@@ -1,8 +1,10 @@
 import React from 'react';
 
+import './style.scss'
+
 function Reformer() {
     return (
-        <div>Reformer</div>
+        <div id="reformer" className="block reformer">Reformer</div>
     );
 }
 

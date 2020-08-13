@@ -1,8 +1,12 @@
 import React from 'react';
 
+import './style.scss';
+
 function Gallery() {
     return (
-        <div>Gallery</div>
+        <div id="gallery" className="block gallery">
+            Gallery
+        </div>
     );
 }
 
